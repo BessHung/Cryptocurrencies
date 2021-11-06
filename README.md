@@ -7,4 +7,11 @@ This project is using unsurpervised learning tools, preprocessing cryptocurrency
 
 ## Result
 
+#### Clustering Crytocurrencies Using K-Means - Elbow Curve
+![](Results/Figure1.png)
 
+#### 3D-Scatter with Clusters
+![](Results/Figure2.png)
+
+#### 2D-Scatter plot with TotalCoinsMined vs TotalCoinSupply
+![](Results/Figure3.png)
